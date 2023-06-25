@@ -14,4 +14,4 @@ Certifique-se de ter as seguintes dependências instaladas no seu sistema:
 1. Faça o clone deste repositório em seu sistema:
 
 ```shell
-https://github.com/marcosjur/script-set.git
+git clone https://github.com/marcosjur/script-set.git
