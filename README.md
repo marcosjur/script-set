@@ -14,4 +14,4 @@ Certifique-se de ter as seguintes dependências instaladas no seu sistema:
 1. Faça o clone deste repositório em seu sistema:
 
 ```shell
-git clone https://github.com/seu-usuario/repositorio-instalacao-softwares.git
+https://github.com/marcosjur/script-set.git
